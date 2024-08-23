@@ -11,9 +11,6 @@ The following systems are added (or updated) via this repository.
 SYSTEM						ROM FOLDER
 
 Arcade						arcade
-Capcom Play System I				cps1
-Capcom Play System II				cps2
-Capcom Play System III				cps3
 Commodore CDTV					cdtv
 NEC TurboGrafx-16				tg16
 NEC TurboGrafx-CD				tg-cd
