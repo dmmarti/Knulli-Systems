@@ -7,7 +7,7 @@ By breaking them out into individual consoles, this allows more customization to
 Most themes are setup to support the majority of these new systems however some may need to be added.
 
 The following systems are added (or updated) via this repository.  
-
+```
 SYSTEM						ROM FOLDER
 
 Arcade						arcade
@@ -40,7 +40,7 @@ Sony PSP Japan					psp-japan
 Sony PSP Minis					pspminis
 Super Famicom					sfc
 Super Nintendo Entertainment System Hacks	snesh
-
+```
 
 ===============================
 Panasonic 3DO Additional Modifications
