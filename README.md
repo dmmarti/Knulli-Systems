@@ -43,6 +43,7 @@ Super Nintendo Entertainment System Hacks	snesh
 ```
 
 ===============================
+
 Panasonic 3DO Additional Modifications
 
 The 3DO Retroarch core is not currently included in Knulli.  This repository includes the Retroarch core file that can be copied over.
@@ -63,6 +64,7 @@ You’ll see some text scrolling on the screen while the command is saving an ov
 
 
 ===============================
+
 BIOS FILES
 
 There may be some additional BIOS files you are required to obtain in order to get some of these systems  working.  Refer to the Batocera Wiki for that information.
