@@ -24,7 +24,6 @@ Nintendo Famicom				famicom
 Nintendo Game Boy Advance Hacks			gbah
 Nintendo Game Boy Color Hacks			gbch
 Nintendo Game Boy Hacks				gbh
-Panasonic 3DO					3do
 Philips CD-i					cdimono1
 Sega Game Gear Hacks				ggh
 Sega Genesis Hacks				genh
@@ -41,27 +40,6 @@ Sony PSP Minis					pspminis
 Super Famicom					sfc
 Super Nintendo Entertainment System Hacks	snesh
 ```
-
-===============================
-
-Panasonic 3DO Additional Modifications
-
-The 3DO Retroarch core is not currently included in Knulli.  This repository includes the Retroarch core file that can be copied over.
-
-The file resides in:  /usr/lib/libretro
-
-However, due to how Knulli works, an additional manual command must be performed in order to keep Knulli from deleting the core file after a restart.
-
-To stop this from happening, there’s a special command to run via SSH.
-
-Run your SSH program (like Putty, etc) and log into your Anbernic to get to a terminal command line.
-
-Type the following command:
-
-batocera-save-overlay    –> and then hit enter
-
-You’ll see some text scrolling on the screen while the command is saving an overlay file.  Once finished, restart your Anbernic system.
-
 
 ===============================
 

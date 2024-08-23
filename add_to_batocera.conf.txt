@@ -5,9 +5,6 @@ Scroll to the very bottom and simply copy and paste the lines below into that fi
 ==============================
 
 
-3do.core=opera
-3do.emulator=libretro
-3do.rewind=0
 amigacdtv.core=puae2021
 amigacdtv.emulator=libretro
 arcade.core=fbneo
