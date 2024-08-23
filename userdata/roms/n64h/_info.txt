@@ -1,6 +1,4 @@
 ## SYSTEM NINTENDO 64 HACKS ##
 -------------------------------------------------------------------------------
 ROM files extensions accepted:  .z64 .n64 .v64 .zip .7z
-glide64mk2
-gliden64
-rice
+
