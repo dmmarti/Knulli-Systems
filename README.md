@@ -7,9 +7,9 @@ By breaking them out into individual consoles, this allows more customization to
 Most themes are setup to support the majority of these new systems however some may need to be added.
 
 The following systems are added (or updated) via this repository.  
-
-SYSTEM						ROM FOLDER
 ```
+SYSTEM						ROM FOLDER
+
 Arcade						arcade
 Capcom Play System I				cps1
 Capcom Play System II				cps2
