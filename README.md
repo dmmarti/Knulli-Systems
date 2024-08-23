@@ -9,7 +9,7 @@ Most themes are setup to support the majority of these new systems however some 
 The following systems are added (or updated) via this repository.  
 
 SYSTEM						ROM FOLDER
-
+```
 Arcade						arcade
 Capcom Play System I				cps1
 Capcom Play System II				cps2
@@ -40,7 +40,7 @@ Sony PSP Japan					psp-japan
 Sony PSP Minis					pspminis
 Super Famicom					sfc
 Super Nintendo Entertainment System Hacks	snesh
-
+```
 
 ===============================
 Panasonic 3DO Additional Modifications
