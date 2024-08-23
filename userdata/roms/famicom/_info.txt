@@ -1,0 +1,3 @@
+## SYSTEM NINTENDO FAMICOM ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .nes .unif .unf .zip .7z

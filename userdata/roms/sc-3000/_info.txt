@@ -1,0 +1,3 @@
+## SYSTEM NINTENDO SC-3000 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .bin .sg .zip .7z

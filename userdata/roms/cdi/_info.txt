@@ -1,0 +1,3 @@
+## SYSTEM PHILLIPS CD-I ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .chd .cue .toc .nrg .gdi .iso .cdr

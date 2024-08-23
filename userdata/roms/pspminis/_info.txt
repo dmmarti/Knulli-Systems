@@ -1,0 +1,3 @@
+## SYSTEM SONY PSP MINIS ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .iso .cso .pbp .chd

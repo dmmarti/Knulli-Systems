@@ -1,0 +1,4 @@
+## SYSTEM SEGA SATURN JAPAN ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .cue .ccd .m3u .chd .iso .zip .mds
+yabasanshiro

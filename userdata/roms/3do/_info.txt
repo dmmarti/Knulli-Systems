@@ -1,0 +1,3 @@
+## SYSTEM PANASONIC 3DO  ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .iso .chd .cue

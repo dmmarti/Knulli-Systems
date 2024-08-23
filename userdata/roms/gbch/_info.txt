@@ -1,0 +1,3 @@
+## SYSTEM NINTENDO GAME BOY COLOR HACKS ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .gbc .zip .7z

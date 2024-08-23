@@ -1,0 +1,3 @@
+## SYSTEM SONY PLAYSTATION JAPAN ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .cue .img .mdf .pbp .toc .cbn .m3u .ccd .chd .iso

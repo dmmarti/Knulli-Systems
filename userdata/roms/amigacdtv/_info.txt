@@ -1,0 +1,3 @@
+## SYSTEM COMMODORE CDTV ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .adf .hdf

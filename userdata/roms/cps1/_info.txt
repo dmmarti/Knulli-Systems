@@ -1,0 +1,3 @@
+## SYSTEM CAPCOM PLAY SYSTEM I ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .zip .7z

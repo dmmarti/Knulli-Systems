@@ -1,0 +1,3 @@
+## SYSTEM SEGA MEGADRIVE JAPAN ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .bin .gen .md .sg .smd .zip .7z

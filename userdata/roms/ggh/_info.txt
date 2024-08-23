@@ -1,0 +1,3 @@
+## SYSTEM SEGA GAME GEAR HACKS ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .bin .gg .zip .7z

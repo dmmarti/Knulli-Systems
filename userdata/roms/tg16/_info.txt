@@ -1,0 +1,3 @@
+## SYSTEM NEC TURBOGRAFX-16 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .pce .bin .zip .7z

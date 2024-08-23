@@ -1,0 +1,3 @@
+## SYSTEM NEC TURBOGRAFX-CD ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted:  .pce .cue .ccd .iso .img .chd
